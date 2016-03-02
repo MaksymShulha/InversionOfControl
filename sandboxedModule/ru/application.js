@@ -5,6 +5,8 @@
 // Вывод из глобального контекста модуля
 console.log('From application global context');
 
+setTimeout(function () { console.log("Hello from setTimeout"); }, 1000);
+
 module.exports = function() {
   // Вывод из контекста экспортируемой функции
   console.log('From application exported function');
