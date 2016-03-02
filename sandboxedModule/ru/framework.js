@@ -13,6 +13,10 @@ var context = { module: {}, console: console, setTimeout: setTimeout, setInterva
 context.global = context;
 var sandbox = vm.createContext(context);
 
+context.console.logEx = context.console.log;
+context.console.log = function (s) { console.logEx( __filename.substring(__filename.lastIndexOf('\\') + 1, __filename.length) + "  " + new Date().toDateString() + "  " + s); };
+
+
 // Читаем исходный код приложения из файла
 var fileName = './application.js';
 fs.readFile(fileName, function(err, src) {
@@ -21,7 +25,7 @@ fs.readFile(fileName, function(err, src) {
   // Запускаем код приложения в песочнице
   var script = vm.createScript(src, fileName);
   script.runInNewContext(sandbox);
-  
+
   // Забираем ссылку из sandbox.module.exports, можем ее исполнить,
   // сохранить в кеш, вывести на экран исходный код приложения и т.д.
 });
