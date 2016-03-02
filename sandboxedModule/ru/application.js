@@ -5,8 +5,8 @@
 // Вывод из глобального контекста модуля
 console.log('From application global context');
 
-log(isString('string'));
-
+console.log(isString('string'));
+console.log(isNull('string'));
 
 setTimeout(function () { console.log("Hello from setTimeout"); }, 1000);
 
