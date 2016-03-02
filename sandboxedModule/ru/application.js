@@ -5,9 +5,13 @@
 // Вывод из глобального контекста модуля
 console.log('From application global context');
 
+log(isString('string'));
+
+
 setTimeout(function () { console.log("Hello from setTimeout"); }, 1000);
 
 setInterval(function () { console.log("Hello from setInterval"); }, 1000);
+
 
 module.exports = function() {
   // Вывод из контекста экспортируемой функции
