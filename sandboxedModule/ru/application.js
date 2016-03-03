@@ -13,7 +13,13 @@ setTimeout(function () { console.log("Hello from setTimeout"); }, 1000);
 setInterval(function () { console.log("Hello from setInterval"); }, 1000);
 
 
-module.exports = function() {
-  // Вывод из контекста экспортируемой функции
-  console.log('From application exported function');
+module.exports = { };
+
+module.exports.hello = function () { 
 };
+
+module.exports.doSomething = function () {
+    console.log('Do something');
+};
+
+module.exports.variableName = 'stringVariable';

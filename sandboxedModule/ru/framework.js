@@ -19,13 +19,15 @@ context.console.log = function (s) { console.logEx( __filename.substring(__filen
 
 // Читаем исходный код приложения из файла
 var fileName = './application.js';
-fs.readFile(fileName, function(err, src) {
-  // Тут нужно обработать ошибки
-  
-  // Запускаем код приложения в песочнице
-  var script = vm.createScript(src, fileName);
-  script.runInNewContext(sandbox);
+fs.readFile(fileName, function (err, src) {
+    // Тут нужно обработать ошибки
 
-  // Забираем ссылку из sandbox.module.exports, можем ее исполнить,
-  // сохранить в кеш, вывести на экран исходный код приложения и т.д.
+    // Запускаем код приложения в песочнице
+    var script = vm.createScript(src, fileName);
+    script.runInNewContext(sandbox);
+
+    var s = sandbox.module.exports;
+    s.doSomething();
+    // Забираем ссылку из sandbox.module.exports, можем ее исполнить,
+    // сохранить в кеш, вывести на экран исходный код приложения и т.д.
 });
