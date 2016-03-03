@@ -22,7 +22,7 @@ module.exports.doSomething = function () {
     console.log('Do something');
 };
 
-module.exports.variableName = 'stringVariable';
+module.exports.variableName = { prop1: 12, prop2: 'str'};
 
 module.exports.sum = function (a, b) {
     var sum = a + b;

@@ -16,7 +16,6 @@ var sandbox = vm.createContext(context);
 context.console.logEx = context.console.log;
 context.console.log = function (s) { console.logEx( __filename.substring(__filename.lastIndexOf('\\') + 1, __filename.length) + "  " + new Date().toDateString() + "  " + s); };
 
-
 // Читаем исходный код приложения из файла
 var fileName = './application.js';
 fs.readFile(fileName, function (err, src) {
@@ -29,6 +28,7 @@ fs.readFile(fileName, function (err, src) {
     var s = sandbox.module.exports;
     s.doSomething();
 
+    console.log(s.variableName.prop1);
     s.sum(2, 3);
     var str = s.sum.toString();
     console.log('function parameters: ' + str.substring(str.indexOf('(') + 1, str.indexOf(')')));
