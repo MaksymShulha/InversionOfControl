@@ -23,3 +23,8 @@ module.exports.doSomething = function () {
 };
 
 module.exports.variableName = 'stringVariable';
+
+module.exports.sum = function (a, b) {
+    var sum = a + b;
+    console.log(a + '+' + b + '=' + sum);
+};

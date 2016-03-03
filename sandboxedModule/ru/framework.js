@@ -28,6 +28,10 @@ fs.readFile(fileName, function (err, src) {
 
     var s = sandbox.module.exports;
     s.doSomething();
+
+    s.sum(2, 3);
+    var str = s.sum.toString();
+    console.log('function parameters: ' + str.substring(str.indexOf('(') + 1, str.indexOf(')')));
     // Забираем ссылку из sandbox.module.exports, можем ее исполнить,
     // сохранить в кеш, вывести на экран исходный код приложения и т.д.
 });
