@@ -3,6 +3,8 @@
 // кусочком фреймворка. Читайте README.md в нем задания.
 
 // Вывод из глобального контекста модуля
+var fs = require('fs');
+
 console.log('From application global context');
 
 console.log("is string 'string'? " + util.isString('string'));
