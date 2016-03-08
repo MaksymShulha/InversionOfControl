@@ -573,3 +573,97 @@ framework.js  Tue Mar 08 2016  Context keys that was deleted: ;
 framework.js  Tue Mar 08 2016  Context keys that was added: fs;
 framework.js  Tue Mar 08 2016  number  12
 framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  [object global]
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  Context keys that was deleted: ;
+framework.js  Tue Mar 08 2016  Context keys that was added: fs;
+framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  Context keys that was deleted: ;
+framework.js  Tue Mar 08 2016  Context keys that was added: fs,key;
+framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  string   fs
+framework.js  Tue Mar 08 2016  string   module
+framework.js  Tue Mar 08 2016  string   console
+framework.js  Tue Mar 08 2016  string   setTimeout
+framework.js  Tue Mar 08 2016  string   setInterval
+framework.js  Tue Mar 08 2016  string   util
+framework.js  Tue Mar 08 2016  string   require
+framework.js  Tue Mar 08 2016  string   global
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  Context keys that was deleted: ;
+framework.js  Tue Mar 08 2016  Context keys that was added: fs,key;
+framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  object   fs
+framework.js  Tue Mar 08 2016  object   module
+framework.js  Tue Mar 08 2016  object   console
+framework.js  Tue Mar 08 2016  function   setInterval
+framework.js  Tue Mar 08 2016  object   util
+framework.js  Tue Mar 08 2016  function   require
+framework.js  Tue Mar 08 2016  object   global
+framework.js  Tue Mar 08 2016  function   setTimeout
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  Context keys that was deleted: ;
+framework.js  Tue Mar 08 2016  Context keys that was added: fs,key;
+framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  object   fs
+framework.js  Tue Mar 08 2016  object   module
+framework.js  Tue Mar 08 2016  object   console
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  Global context:
+framework.js  Tue Mar 08 2016  function   setInterval
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  function   require
+framework.js  Tue Mar 08 2016  object   global
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  object   util
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  Context keys that was deleted: ;
+framework.js  Tue Mar 08 2016  Context keys that was added: fs,key;
+framework.js  Tue Mar 08 2016  function   setTimeout
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  Hello from setTimeout
