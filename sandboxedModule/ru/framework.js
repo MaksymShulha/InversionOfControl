@@ -48,7 +48,10 @@ for (var i = 2; i < process.argv.length; i++) {
             var s = sandbox.module.exports;
             s.doSomething();
 
-            console.log(s.variableName.prop1);
+            var s1 = s.variableName.prop1;
+            var s2 = s.variableName.prop2;
+            console.log(typeof s1 + "  " + s1);
+            console.log(typeof s2 + "  " + s2);
             s.sum(2, 3);
             var str = s.sum.toString();
             console.log('function parameters: ' + str.substring(str.indexOf('(') + 1, str.indexOf(')')));
