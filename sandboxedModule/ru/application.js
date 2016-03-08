@@ -12,7 +12,7 @@ console.log("is null 'string'? " + util.isNull('string'));
 
 setTimeout(function () { console.log("Hello from setTimeout"); }, 1000);
 
-setInterval(function () { console.log("Hello from setInterval"); }, 1000);
+//setInterval(function () { console.log("Hello from setInterval"); }, 1000);
 
 
 module.exports = { };

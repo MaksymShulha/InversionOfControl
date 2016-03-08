@@ -29,6 +29,13 @@ function requireWrap(rq) {
     fs.appendFile(log_file, str + '\n');
     return require(rq);
 }
+function getSandboxKeys(sandbox) {
+    var arr = [];
+    for (var key in sandbox) {
+        arr.push(key)
+    }
+    return arr;
+}
 
 for (var i = 2; i < process.argv.length; i++) {
 
@@ -41,6 +48,7 @@ for (var i = 2; i < process.argv.length; i++) {
         if (err) {
             console.log("File not found");
         } else {
+            var beforeKeys = getSandboxKeys(sandbox);
             // Запускаем код приложения в песочнице
             var script = vm.createScript(src, fileName);
             script.runInNewContext(sandbox);
@@ -58,5 +66,18 @@ for (var i = 2; i < process.argv.length; i++) {
             // Забираем ссылку из sandbox.module.exports, можем ее исполнить,
             // сохранить в кеш, вывести на экран исходный код приложения и т.д.
         }
+        var afterKeys = getSandboxKeys(sandbox);
+        for (var j = 0; j < beforeKeys.length; j++) {
+            for (var k = 0; k < afterKeys.length; k++) {
+                if (beforeKeys[j] == afterKeys[k]) {
+                    afterKeys.splice(k, 1);
+                    beforeKeys.splice(j--, 1);
+                    break;
+                }
+            }
+        }
+        console.log("Context keys that was deleted: " + beforeKeys + ';');
+        console.log("Context keys that was added: " + afterKeys + ';');
     });
+
 }

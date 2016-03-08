@@ -1,0 +1,575 @@
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  12
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  Hello from setInterval
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  Hello from setInterval
+framework.js  Tue Mar 08 2016  Hello from setInterval
+framework.js  Tue Mar 08 2016  Context before run:
+framework.js  Tue Mar 08 2016  	module
+framework.js  Tue Mar 08 2016  	console
+framework.js  Tue Mar 08 2016  	setTimeout
+framework.js  Tue Mar 08 2016  	setInterval
+framework.js  Tue Mar 08 2016  	util
+framework.js  Tue Mar 08 2016  	require
+framework.js  Tue Mar 08 2016  	global
+framework.js  Tue Mar 08 2016  	module
+framework.js  Tue Mar 08 2016  	console
+framework.js  Tue Mar 08 2016  	util
+framework.js  Tue Mar 08 2016  	global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  	require
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  	setTimeout
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  	setInterval
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  Context before run:
+framework.js  Tue Mar 08 2016  	module
+framework.js  Tue Mar 08 2016  	console
+framework.js  Tue Mar 08 2016  	setTimeout
+framework.js  Tue Mar 08 2016  	setInterval
+framework.js  Tue Mar 08 2016  	util
+framework.js  Tue Mar 08 2016  	require
+framework.js  Tue Mar 08 2016  	global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  	module
+framework.js  Tue Mar 08 2016  	console
+framework.js  Tue Mar 08 2016  	setTimeout
+framework.js  Tue Mar 08 2016  	setInterval
+framework.js  Tue Mar 08 2016  	util
+framework.js  Tue Mar 08 2016  	require
+framework.js  Tue Mar 08 2016  	global
+framework.js  Tue Mar 08 2016  	fs
+framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  Context keys before run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  Context keys after run:
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  undefined
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  undefined
+framework.js  Tue Mar 08 2016  undefined
+framework.js  Tue Mar 08 2016  undefined
+framework.js  Tue Mar 08 2016  8
+framework.js  Tue Mar 08 2016  undefined
+framework.js  Tue Mar 08 2016  undefined
+framework.js  Tue Mar 08 2016  undefined
+framework.js  Tue Mar 08 2016  undefined
+framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  Context keys before run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  Context keys after run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  8
+framework.js  Tue Mar 08 2016  undefined
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  Context keys before run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  Context keys after run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  8
+framework.js  Tue Mar 08 2016  modulemodule
+framework.js  Tue Mar 08 2016  del
+framework.js  Tue Mar 08 2016  consoleundefined
+framework.js  Tue Mar 08 2016  setTimeoutundefined
+framework.js  Tue Mar 08 2016  setIntervalundefined
+framework.js  Tue Mar 08 2016  utilundefined
+framework.js  Tue Mar 08 2016  requireundefined
+framework.js  Tue Mar 08 2016  globalundefined
+framework.js  Tue Mar 08 2016  NaN
+framework.js  Tue Mar 08 2016  del
+framework.js  Tue Mar 08 2016  undefined
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  Context keys before run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  Context keys after run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  8
+framework.js  Tue Mar 08 2016  modulemodule
+framework.js  Tue Mar 08 2016  del
+framework.js  Tue Mar 08 2016  consoleundefined
+framework.js  Tue Mar 08 2016  setTimeoutundefined
+framework.js  Tue Mar 08 2016  setIntervalundefined
+framework.js  Tue Mar 08 2016  utilundefined
+framework.js  Tue Mar 08 2016  requireundefined
+framework.js  Tue Mar 08 2016  globalundefined
+framework.js  Tue Mar 08 2016  NaN
+framework.js  Tue Mar 08 2016  del
+framework.js  Tue Mar 08 2016  undefined
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  Context keys before run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  Context keys after run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  8
+framework.js  Tue Mar 08 2016  modulemodule
+framework.js  Tue Mar 08 2016  del
+framework.js  Tue Mar 08 2016  consolenull
+framework.js  Tue Mar 08 2016  setTimeoutnull
+framework.js  Tue Mar 08 2016  setIntervalnull
+framework.js  Tue Mar 08 2016  utilnull
+framework.js  Tue Mar 08 2016  requirenull
+framework.js  Tue Mar 08 2016  globalnull
+framework.js  Tue Mar 08 2016  NaN
+framework.js  Tue Mar 08 2016  del
+framework.js  Tue Mar 08 2016  null
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  Context keys before run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  Context keys after run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  8
+framework.js  Tue Mar 08 2016  del
+framework.js  Tue Mar 08 2016  del
+framework.js  Tue Mar 08 2016  del
+framework.js  Tue Mar 08 2016  del
+framework.js  Tue Mar 08 2016  del
+framework.js  Tue Mar 08 2016  del
+framework.js  Tue Mar 08 2016  del
+framework.js  Tue Mar 08 2016  ,,,,,,,fs
+framework.js  Tue Mar 08 2016  undefined
+framework.js  Tue Mar 08 2016  undefined
+framework.js  Tue Mar 08 2016  undefined
+framework.js  Tue Mar 08 2016  undefined
+framework.js  Tue Mar 08 2016  undefined
+framework.js  Tue Mar 08 2016  undefined
+framework.js  Tue Mar 08 2016  undefined
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  Context keys before run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  Context keys after run:
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  8
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  del
+framework.js  Tue Mar 08 2016  del
+framework.js  Tue Mar 08 2016  del
+framework.js  Tue Mar 08 2016  del
+framework.js  Tue Mar 08 2016  del
+framework.js  Tue Mar 08 2016  del
+framework.js  Tue Mar 08 2016  del
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  ,,,,,,,fs
+framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  Context keys before run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  Context keys after run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  8
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  ,,,,,,,fs
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  Context keys before run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  Context keys after run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  8
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  Context keys before run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  Context keys after run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  8
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  Context keys before run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  Context keys after run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  console,setInterval,require
+framework.js  Tue Mar 08 2016  console,setInterval,require,fs
+framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  Context keys before run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  Context keys after run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  Context keys before run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  Context keys after run:
+framework.js  Tue Mar 08 2016  module
+framework.js  Tue Mar 08 2016  console
+framework.js  Tue Mar 08 2016  setTimeout
+framework.js  Tue Mar 08 2016  setInterval
+framework.js  Tue Mar 08 2016  util
+framework.js  Tue Mar 08 2016  require
+framework.js  Tue Mar 08 2016  global
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  Keys that was deleted: 
+framework.js  Tue Mar 08 2016  Keys that was added: fs
+framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  Context keys before run:
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  Context keys after run:
+framework.js  Tue Mar 08 2016  Keys that was deleted: ;
+framework.js  Tue Mar 08 2016  Keys that was added: fs;
+framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  Keys that was deleted: ;
+framework.js  Tue Mar 08 2016  Keys that was added: fs;
+framework.js  Tue Mar 08 2016  Hello from setTimeout
+framework.js  Tue Mar 08 2016  fs
+framework.js  Tue Mar 08 2016  From application global context
+framework.js  Tue Mar 08 2016  is string 'string'? true
+framework.js  Tue Mar 08 2016  is null 'string'? false
+framework.js  Tue Mar 08 2016  string  str
+framework.js  Tue Mar 08 2016  Do something
+framework.js  Tue Mar 08 2016  2+3=5
+framework.js  Tue Mar 08 2016  function parameters: a, b
+framework.js  Tue Mar 08 2016  Context keys that was deleted: ;
+framework.js  Tue Mar 08 2016  Context keys that was added: fs;
+framework.js  Tue Mar 08 2016  number  12
+framework.js  Tue Mar 08 2016  Hello from setTimeout
