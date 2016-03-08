@@ -19,11 +19,9 @@ context.console.log = function (s) {
     console.logEx(str);
     fs.appendFile(log_file, str + '\n');
 };
-
 function createMessage(s) {
     return process.argv[1].substring(process.argv[1].lastIndexOf('\\') + 1, process.argv[1].length) + "  " + new Date().toDateString() + "  " + s;
 }
-
 function requireWrap(rq) {
     var str = createMessage(rq);
     fs.appendFile(log_file, str + '\n');
@@ -36,7 +34,6 @@ function getSandboxKeys(sandbox) {
     }
     return arr;
 }
-
 for (var i = 2; i < process.argv.length; i++) {
 
     var sandbox = vm.createContext(context);
@@ -55,7 +52,6 @@ for (var i = 2; i < process.argv.length; i++) {
 
             var s = sandbox.module.exports;
             s.doSomething();
-
             var s1 = s.variableName.prop1;
             var s2 = s.variableName.prop2;
             console.log(typeof s1 + "  " + s1);
@@ -79,5 +75,4 @@ for (var i = 2; i < process.argv.length; i++) {
         console.log("Context keys that was deleted: " + beforeKeys + ';');
         console.log("Context keys that was added: " + afterKeys + ';');
     });
-
 }
