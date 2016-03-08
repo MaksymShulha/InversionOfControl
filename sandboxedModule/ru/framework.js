@@ -13,7 +13,11 @@ var context = { module: {}, console: console, setTimeout: setTimeout, setInterva
 context.global = context;
 
 context.console.logEx = context.console.log;
-context.console.log = function (s) { console.logEx(process.argv[1].substring(process.argv[1].lastIndexOf('\\') + 1, process.argv[1].length) + "  " + new Date().toDateString() + "  " + s); };
+context.console.log = function (s) {
+    var str = process.argv[1].substring(process.argv[1].lastIndexOf('\\') + 1, process.argv[1].length) + "  " + new Date().toDateString() + "  " + s ;
+    console.logEx(str);
+    fs.appendFile('log.txt', str + '\n');
+};
 
 for (var i = 2; i < process.argv.length; i++) {
 
